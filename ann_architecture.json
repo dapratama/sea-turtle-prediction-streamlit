@@ -1,0 +1,9 @@
+{
+    "layers": 10,
+    "neurons": 150,
+    "iterations": "100",
+    "apply_restarting": "Yes",
+    "cycles": "5",
+    "optimizer": "Adam",
+    "new_model": "No"
+}
